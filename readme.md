@@ -14,8 +14,6 @@ This project aims to evaluate the potential endocrine disruption effect of real-
 proj/
 |-- code
 |   `-- analysis.R
-|-- data 												# will generated automatically
-|-- img 												# will generated automatically
 |-- misc
 |   |-- mixtures__rmix.xlsx
 |   `-- single_cmpd_rmix.xlsx
@@ -36,5 +34,7 @@ cd $DIR
 
 Rscript code/analysis.R
 ```
+
+---
 
 >This project was made by the [Karlsson Laboratory](https://karlssonlab.se/) at Stockholm University, Sweden
