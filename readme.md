@@ -1,6 +1,6 @@
 # README
 
->The code in this repo was used to generate reults for this paper: [Effects of personalized chemical mixtures on an estrogen receptor activity based on high throughput screening assay, 2024, <journal>](https://doi.org)
+>The code in this repo was used to generate reults for this paper: [Effects of personalized chemical mixtures on an estrogen receptor activity based on high throughput screening assay, 2024, some-journal](https://doi.org)
 
 ## Project summary
 
@@ -17,8 +17,8 @@ project/
 |-- code
 |   └-- analysis.R
 |-- doc
-|   |-- mixtures__rmix.xlsx      	dataset
-|   └-- single_cmpd_rmix.xlsx	 		dataset
+|   |-- mixtures__rmix.xlsx				dataset
+|   └-- single_cmpd_rmix.xlsx			dataset
 └-- readme.md
 ```
 
