@@ -17,8 +17,8 @@ project/
 |-- code
 |   └-- analysis.R
 |-- doc
-|   |-- mixtures__rmix.xlsx				dataset
-|   └-- single_cmpd_rmix.xlsx			dataset
+|   |-- mixtures__rmix.xlsx
+|   └-- single_cmpd_rmix.xlsx
 └-- readme.md
 ```
 
